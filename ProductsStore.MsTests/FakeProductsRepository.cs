@@ -14,12 +14,6 @@ namespace ProductsStore.MsTests
     {
         private List<Product> _products;
 
-        //public List<Product> products = new List<Product>()
-        //{
-        //    new Product() { Id = 1, Name = "Aziz-1"},
-        //    new Product() { Id = 2, Name = "Aziz-2"},
-        //    new Product() { Id = 3, Name = "Aziz-3"},
-        //};
         public FakeProductsRepository(List<Product> products)
         {
             _products = products;

@@ -1,0 +1,10 @@
+C:\Users\Aziz\Source\Repos\BankAccountTest\BankAccountLib\bin\Debug\netstandard2.0\BankAccountLib.deps.json
+C:\Users\Aziz\Source\Repos\BankAccountTest\BankAccountLib\bin\Debug\netstandard2.0\BankAccountLib.dll
+C:\Users\Aziz\Source\Repos\BankAccountTest\BankAccountLib\bin\Debug\netstandard2.0\BankAccountLib.pdb
+C:\Users\Aziz\Source\Repos\BankAccountTest\BankAccountLib\obj\Debug\netstandard2.0\BankAccountLib.csproj.AssemblyReference.cache
+C:\Users\Aziz\Source\Repos\BankAccountTest\BankAccountLib\obj\Debug\netstandard2.0\BankAccountLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aziz\Source\Repos\BankAccountTest\BankAccountLib\obj\Debug\netstandard2.0\BankAccountLib.AssemblyInfoInputs.cache
+C:\Users\Aziz\Source\Repos\BankAccountTest\BankAccountLib\obj\Debug\netstandard2.0\BankAccountLib.AssemblyInfo.cs
+C:\Users\Aziz\Source\Repos\BankAccountTest\BankAccountLib\obj\Debug\netstandard2.0\BankAccountLib.csproj.CoreCompileInputs.cache
+C:\Users\Aziz\Source\Repos\BankAccountTest\BankAccountLib\obj\Debug\netstandard2.0\BankAccountLib.dll
+C:\Users\Aziz\Source\Repos\BankAccountTest\BankAccountLib\obj\Debug\netstandard2.0\BankAccountLib.pdb

@@ -17,7 +17,7 @@ namespace ProductsStore.MsTests
     {
         //On un moq répository avec la framwork Moq
 
-        //n créeun objet Moq de type IProductsRepository
+        //On a crée un objet Moq de type IProductsRepository
         private readonly Mock<IProductsRepository> _mockProductsRepository;
 
         private Product _product;
